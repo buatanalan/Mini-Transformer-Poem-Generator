@@ -15,7 +15,7 @@ Generate puisi berdasarkan judul dan tema atau topik yang diinginkan
 ## Dataset
 
 - **Nama Dataset:** Dataset Card for Poetry
-- **Link Asli Dataset:** hf://datasets/merve/poetry/poetry.csv
+- **Link Asli Dataset:** https://huggingface.co/datasets/merve/poetry
 - **Statistik Dataset:**  
   - Jumlah data : 573
   - Fitur / kolom : 5 kolom (author, content, poem name, age, type)
